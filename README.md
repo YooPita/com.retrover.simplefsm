@@ -81,7 +81,7 @@ public partial class CharacterMovement
     
     public void Start()
     {
-      _characterMovement._canJump;
+      _characterMovement._canJump = false;
       _currentJumpTime = _jumpTime;
     }
 
