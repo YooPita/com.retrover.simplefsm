@@ -31,7 +31,7 @@ public partial class CharacterMovement
       _stateMachine = new StateMachine(_states.Falling);
   }
   
-  // a variable in which we will store the implementations of our states
+  // a property in which we will store the implementations of our states
   private States _states;
   
   // a property common to all states that they can affect
