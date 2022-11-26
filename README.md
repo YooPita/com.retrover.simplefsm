@@ -1,4 +1,4 @@
-# Simple Finite-State Machine
+# Simple Finite-State Machine. Unity package
 
 A simple and concise implementation of the state machine.
 
