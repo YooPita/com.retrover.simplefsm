@@ -6,7 +6,7 @@ State machines are great for describing objects with a small number of states. I
 
 ## Introduction
 
-Hi, this is YooPita! I present to your attention the architecture of the simplest state machine!
+Hello👋🐶! Retrover 🗡️🐶 presents to your attention the architecture of the simplest state machine!
 
 - You ask, what's the point of posting such a simple code in a separate repository?
 - And I will answer this that it makes sense to give an impetus to understanding how to organize a finite state machine.
