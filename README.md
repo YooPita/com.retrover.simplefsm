@@ -2,7 +2,7 @@
 
 A simple and concise implementation of the state machine.
 
-State machines are great for describing objects with a small number of states. If you need to have more states, I recommend paying attention to the [Behavior Tree](https://github.com/forcepusher/com.bananaparty.behaviortree).
+State machines are great for describing objects with a small number of states. If you need to have more states, I recommend paying attention to the [Behavior Tree](https://github.com/YooPita/com.retrover.behaviortree).
 
 ## Introduction
 
